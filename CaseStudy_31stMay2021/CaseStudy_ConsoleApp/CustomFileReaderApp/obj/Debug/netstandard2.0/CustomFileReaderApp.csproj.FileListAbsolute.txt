@@ -1,0 +1,4 @@
+C:\CaseStudy_31stMay2021\CaseStudy_ConsoleApp\CustomFileReaderApp\obj\Debug\netstandard2.0\CustomFileReaderApp.csprojAssemblyReference.cache
+C:\CaseStudy_31stMay2021\CaseStudy_ConsoleApp\CustomFileReaderApp\obj\Debug\netstandard2.0\CustomFileReaderApp.AssemblyInfoInputs.cache
+C:\CaseStudy_31stMay2021\CaseStudy_ConsoleApp\CustomFileReaderApp\obj\Debug\netstandard2.0\CustomFileReaderApp.AssemblyInfo.cs
+C:\CaseStudy_31stMay2021\CaseStudy_ConsoleApp\CustomFileReaderApp\obj\Debug\netstandard2.0\CustomFileReaderApp.csproj.CoreCompileInputs.cache

@@ -1,0 +1,10 @@
+C:\CaseStudy_31stMay2021\CaseStudy_ConsoleApp\CaseStudy_ConsoleApp\bin\Debug\CaseStudy_ConsoleApp.exe.config
+C:\CaseStudy_31stMay2021\CaseStudy_ConsoleApp\CaseStudy_ConsoleApp\bin\Debug\CaseStudy_ConsoleApp.exe
+C:\CaseStudy_31stMay2021\CaseStudy_ConsoleApp\CaseStudy_ConsoleApp\bin\Debug\CaseStudy_ConsoleApp.pdb
+C:\CaseStudy_31stMay2021\CaseStudy_ConsoleApp\CaseStudy_ConsoleApp\obj\Debug\CaseStudy_ConsoleApp.csprojAssemblyReference.cache
+C:\CaseStudy_31stMay2021\CaseStudy_ConsoleApp\CaseStudy_ConsoleApp\obj\Debug\CaseStudy_ConsoleApp.csproj.CoreCompileInputs.cache
+C:\CaseStudy_31stMay2021\CaseStudy_ConsoleApp\CaseStudy_ConsoleApp\obj\Debug\CaseStudy_ConsoleApp.exe
+C:\CaseStudy_31stMay2021\CaseStudy_ConsoleApp\CaseStudy_ConsoleApp\obj\Debug\CaseStudy_ConsoleApp.pdb
+C:\CaseStudy_31stMay2021\CaseStudy_ConsoleApp\CaseStudy_ConsoleApp\bin\Debug\CustomLogicApp.dll
+C:\CaseStudy_31stMay2021\CaseStudy_ConsoleApp\CaseStudy_ConsoleApp\bin\Debug\CustomLogicApp.pdb
+C:\CaseStudy_31stMay2021\CaseStudy_ConsoleApp\CaseStudy_ConsoleApp\obj\Debug\CaseStudy_ConsoleApp.csproj.CopyComplete

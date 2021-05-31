@@ -24,7 +24,7 @@ namespace CaseStudy_ConsoleApp
         static void Main(string[] args)
         {
 
-            Program program = new Program();
+            Program program = new Program();   
             //custom class to read files
             CustomDataReader customDataReader = new CustomDataReader();
             Console.WriteLine("Welcome to Trisoft--->SDL TriSoft Case Study App!!");

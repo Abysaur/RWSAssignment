@@ -20,7 +20,7 @@ namespace CustomLogicApp.Exception
         }
 
         /**
-         * Logs all the error to the log file
+         * Logs all the error to the log file   
          */
         public CustomFileNotFoundException(string message) : base(message)
         {

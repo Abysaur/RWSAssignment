@@ -16,7 +16,7 @@ namespace CustomLogicApp.FileReader
          */
         public string GetResult(string[] fileArrray)
         {
-            try
+            try  
             {
 
                 foreach (var itemFile in fileArrray)

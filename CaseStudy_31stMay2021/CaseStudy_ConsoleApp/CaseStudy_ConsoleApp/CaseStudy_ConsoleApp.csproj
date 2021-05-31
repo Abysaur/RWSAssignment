@@ -8,18 +8,11 @@
     <OutputType>Exe</OutputType>
     <RootNamespace>CaseStudy_ConsoleApp</RootNamespace>
     <AssemblyName>CaseStudy_ConsoleApp</AssemblyName>
-<<<<<<< HEAD
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
     <TargetFrameworkProfile />
-=======
-    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
-    <FileAlignment>512</FileAlignment>
-    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
-    <Deterministic>true</Deterministic>
->>>>>>> ed99ae3362f9842e137f2b4d3103c393af7966cc
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -63,7 +56,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\CustomLogicApp\CustomLogicApp.csproj">
-      <Project>{4334952A-0542-496A-AF86-82C746505375}</Project>
+      <Project>{4334952a-0542-496a-af86-82c746505375}</Project>
       <Name>CustomLogicApp</Name>
     </ProjectReference>
   </ItemGroup>

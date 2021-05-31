@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<company>
+  <title>SDL TriSoft</title>
+  <employees>
+    <employee id="1">
+      <firstname>Abhilash</firstname>
+      <lastname>Ravi</lastname>
+      <title name="SDL TriSoft">HR Manager</title>
+    </employee>
+    <employee id="2">
+      <firstname>Rashmi</firstname>
+      <lastname>Nair</lastname>
+      <title name="SDL TriSoft">HR Manager</title>
+    </employee>
+  </employees>
+</company>

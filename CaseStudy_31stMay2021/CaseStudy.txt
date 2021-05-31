@@ -1,0 +1,52 @@
+ Below you find the assignment.
+  
+It is more important to pay attention to the quality 
+as fast as possible, but please send the result back to us within four hours.
+In case of unclarities, document them (e.g. in the email you send back to us), 
+but don't ask us any questions during the making of the assignment.
+ 
+Good luck!
+ 
+--------------------
+ 
+Earlier this year Trisoft was taken over by SDL International.
+As a result Trisoft is going through a rebranding phase, where all documents have to 
+be updated to refer to us by our new name: SDL Trisoft.
+ 
+* Write a C# console application, that:
+ - Reads all XML files in a directory (where XML files are recognized as those with extension 
+   'xml', 'xsl' or 'xslt')
+ - replaces the term 'Trisoft' with 'SDL Trisoft' in all text content and title attribute values (so the values of attributes named 'title') of the document
+ - Overwrites the original XML file with the new content, making a backup of the original file in
+   a .bak file in the same directory.
+ 
+ 
+* Write some unittests to test the replacement functionality in the documents.
+ - Write unittest code to be run by either NUnit or MSTest
+ - If you're not familiar with NUnit or MSTest, it's OK to write your own simple test client app or just describe the test cases.
+ 
+ 
+* Extra remarks:
+ - If a term in a file is already 'SDL Trisoft' it should  not be updated again.
+ - Aside from the changes mentioned above, no other changes should be made to the document.
+ - If a file with the .bak extension already exists, it may be overwritten to create the backup.
+ - In case of a problem on a certain file, the program should print an error message and continue with the next file.
+    The XML file that caused the error should not be updated in this case.
+ - Think about XML namespaces
+ 
+ 
+Example:
+ 
+Some XML file's content before the run:
+ 
+    <?xml version="1.0" encoding="UTF-8"?>
+    <test title="This Trisoft will be updated">
+        <line1>Trisoft has been renamed to SDL Trisoft</line1>
+    </test>
+ 
+After the run:
+ 
+    <?xml version="1.0" encoding="UTF-8"?>
+    <test title="This SDL Trisoft will be updated">
+        <line1>SDL Trisoft has been renamed to SDL Trisoft</line1>
+    </test>

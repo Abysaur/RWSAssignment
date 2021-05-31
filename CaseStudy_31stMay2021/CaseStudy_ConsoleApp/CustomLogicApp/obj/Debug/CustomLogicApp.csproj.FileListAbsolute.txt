@@ -1,0 +1,12 @@
+C:\CaseStudy_31stMay2021\CaseStudy_ConsoleApp\CustomLogicApp\bin\Debug\CustomLogicApp.dll
+C:\CaseStudy_31stMay2021\CaseStudy_ConsoleApp\CustomLogicApp\bin\Debug\CustomLogicApp.pdb
+C:\CaseStudy_31stMay2021\CaseStudy_ConsoleApp\CustomLogicApp\obj\Debug\CustomLogicApp.csproj.CoreCompileInputs.cache
+C:\CaseStudy_31stMay2021\CaseStudy_ConsoleApp\CustomLogicApp\obj\Debug\CustomLogicApp.dll
+C:\CaseStudy_31stMay2021\CaseStudy_ConsoleApp\CustomLogicApp\obj\Debug\CustomLogicApp.pdb
+C:\CaseStudy_31stMay2021\CaseStudy_ConsoleApp\CustomLogicApp\obj\Debug\CustomLogicApp.csprojAssemblyReference.cache
+C:\Assignment\RWSAssignment\CaseStudy_31stMay2021\CaseStudy_ConsoleApp\CustomLogicApp\bin\Debug\CustomLogicApp.dll
+C:\Assignment\RWSAssignment\CaseStudy_31stMay2021\CaseStudy_ConsoleApp\CustomLogicApp\bin\Debug\CustomLogicApp.pdb
+C:\Assignment\RWSAssignment\CaseStudy_31stMay2021\CaseStudy_ConsoleApp\CustomLogicApp\obj\Debug\CustomLogicApp.csprojAssemblyReference.cache
+C:\Assignment\RWSAssignment\CaseStudy_31stMay2021\CaseStudy_ConsoleApp\CustomLogicApp\obj\Debug\CustomLogicApp.csproj.CoreCompileInputs.cache
+C:\Assignment\RWSAssignment\CaseStudy_31stMay2021\CaseStudy_ConsoleApp\CustomLogicApp\obj\Debug\CustomLogicApp.dll
+C:\Assignment\RWSAssignment\CaseStudy_31stMay2021\CaseStudy_ConsoleApp\CustomLogicApp\obj\Debug\CustomLogicApp.pdb

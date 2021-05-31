@@ -11,12 +11,19 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>CaseStudy_TestApp</RootNamespace>
     <AssemblyName>CaseStudy_TestApp</AssemblyName>
+<<<<<<< HEAD
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+=======
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+>>>>>>> ed99ae3362f9842e137f2b4d3103c393af7966cc
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
     <NuGetPackageImportStamp>
     </NuGetPackageImportStamp>
+<<<<<<< HEAD
     <TargetFrameworkProfile />
+=======
+>>>>>>> ed99ae3362f9842e137f2b4d3103c393af7966cc
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>

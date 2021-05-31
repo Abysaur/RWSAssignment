@@ -1,6 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
+<<<<<<< HEAD
 using System.IO;
+=======
+>>>>>>> ed99ae3362f9842e137f2b4d3103c393af7966cc
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -9,6 +12,7 @@ namespace CustomLogicApp.Exception
 {
     class CustomFileNotFoundException:ApplicationException
     {
+<<<<<<< HEAD
 
     public CustomFileNotFoundException()
         {
@@ -26,6 +30,14 @@ namespace CustomLogicApp.Exception
         {
             string[] start = { DateTime.Now + ": Error : \n" };
             File.AppendAllLines(Environment.CurrentDirectory + "\\Log\\log.txt", start);
+=======
+        public CustomFileNotFoundException()
+        {
+
+        }
+        public CustomFileNotFoundException(string message) : base(message)
+        {
+>>>>>>> ed99ae3362f9842e137f2b4d3103c393af7966cc
 
         }
     }

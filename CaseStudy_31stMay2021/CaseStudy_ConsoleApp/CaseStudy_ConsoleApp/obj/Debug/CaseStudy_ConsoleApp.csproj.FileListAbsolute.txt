@@ -8,6 +8,7 @@ C:\CaseStudy_31stMay2021\CaseStudy_ConsoleApp\CaseStudy_ConsoleApp\obj\Debug\Cas
 C:\CaseStudy_31stMay2021\CaseStudy_ConsoleApp\CaseStudy_ConsoleApp\bin\Debug\CustomLogicApp.dll
 C:\CaseStudy_31stMay2021\CaseStudy_ConsoleApp\CaseStudy_ConsoleApp\bin\Debug\CustomLogicApp.pdb
 C:\CaseStudy_31stMay2021\CaseStudy_ConsoleApp\CaseStudy_ConsoleApp\obj\Debug\CaseStudy_ConsoleApp.csproj.CopyComplete
+<<<<<<< HEAD
 C:\Assignment\RWSAssignment\CaseStudy_31stMay2021\CaseStudy_ConsoleApp\CaseStudy_ConsoleApp\bin\Debug\CaseStudy_ConsoleApp.exe.config
 C:\Assignment\RWSAssignment\CaseStudy_31stMay2021\CaseStudy_ConsoleApp\CaseStudy_ConsoleApp\bin\Debug\CaseStudy_ConsoleApp.exe
 C:\Assignment\RWSAssignment\CaseStudy_31stMay2021\CaseStudy_ConsoleApp\CaseStudy_ConsoleApp\bin\Debug\CaseStudy_ConsoleApp.pdb
@@ -18,3 +19,5 @@ C:\Assignment\RWSAssignment\CaseStudy_31stMay2021\CaseStudy_ConsoleApp\CaseStudy
 C:\Assignment\RWSAssignment\CaseStudy_31stMay2021\CaseStudy_ConsoleApp\CaseStudy_ConsoleApp\obj\Debug\CaseStudy_ConsoleApp.csproj.CopyComplete
 C:\Assignment\RWSAssignment\CaseStudy_31stMay2021\CaseStudy_ConsoleApp\CaseStudy_ConsoleApp\obj\Debug\CaseStudy_ConsoleApp.exe
 C:\Assignment\RWSAssignment\CaseStudy_31stMay2021\CaseStudy_ConsoleApp\CaseStudy_ConsoleApp\obj\Debug\CaseStudy_ConsoleApp.pdb
+=======
+>>>>>>> ed99ae3362f9842e137f2b4d3103c393af7966cc
